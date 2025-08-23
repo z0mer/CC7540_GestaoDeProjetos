@@ -1,1 +1,1 @@
-# GestaoDeProjetos
+Projeto disponível na Wiki
